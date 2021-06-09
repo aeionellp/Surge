@@ -1,5 +1,5 @@
 {
-	"name": "aeionellp/Surge",
+	"name": "aeionellp/surge",
 	"description": "A php library for sending push notifications",
     "autoload": {
        "psr-4": { "Surge\\": "src/" }
